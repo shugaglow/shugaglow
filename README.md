@@ -4,8 +4,8 @@ Here's a quick summary about me:
 
 😊 Pronouns: She/her
 💡 Fun fact: I'm a Product Designer.
-🌱 I’m currently learning HTML, CSS and JavaScript. 
-💼 Job interests: Frontend Engineering junior role or internships
+🌱 I’m currently learning HTML, CSS, JavaScript and React. 
+💼 Job interests: Frontend Engineering jobs
 📫 Contact me on akpadiahaglory@gmail.com
 
 <!---
