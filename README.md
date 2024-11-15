@@ -1,5 +1,4 @@
 Hi there! My name is Glory Akpadiaha.
-I'm a Software Engineering student in Altschool of Africa.
 Here's a quick summary about me:
 
 😊 Pronouns: She/her
